@@ -1,7 +1,7 @@
 <h1 align="center" >𝙰𝚑𝚖𝚎𝚍 𝙰𝚋𝚍𝚘 𝙴𝚕𝚍𝚊𝚠𝚘𝚞𝚍𝚢</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=700&height=50&lines=Frontend+Web-Developer+%26%26+Mechanical+Engineer" alt="Typing SVG" /></a>
+  <a href="https://github.com/Ahmed-Eldawoudy"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=700&height=50&lines=Frontend+Web-Developer+%26%26+Mechanical+Engineer" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
